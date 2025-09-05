@@ -1,0 +1,40 @@
+@theme {
+    --color-nas-purple: var(--color-nas-purple-400);
+    --color-nas-purple-50: #f5f2ff;
+    --color-nas-purple-100: #ede8ff;
+    --color-nas-purple-200: #ddd4ff;
+    --color-nas-purple-300: #c4b2ff;
+    --color-nas-purple-400: #b89cff;
+    --color-nas-purple-500: #8d55fd;
+    --color-nas-purple-600: #8032f5;
+    --color-nas-purple-700: #7120e1;
+    --color-nas-purple-800: #5f1abd;
+    --color-nas-purple-900: #4f189a;
+    --color-nas-purple-950: #300c69;
+
+    --color-nas-pink: var(--color-nas-pink-300);
+    --color-nas-pink-50: #fff4fd;
+    --color-nas-pink-100: #ffe7fc;
+    --color-nas-pink-200: #ffcef7;
+    --color-nas-pink-300: #ff9ceb;
+    --color-nas-pink-400: #fe74e1;
+    --color-nas-pink-500: #f540cd;
+    --color-nas-pink-600: #d920ac;
+    --color-nas-pink-700: #b4178b;
+    --color-nas-pink-800: #931570;
+    --color-nas-pink-900: #78175b;
+    --color-nas-pink-950: #51013a;
+
+    --color-nas-blue: var(--color-nas-blue-300);
+    --color-nas-blue-50: #eff7ff;
+    --color-nas-blue-100: #daedff;
+    --color-nas-blue-200: #bee0ff;
+    --color-nas-blue-300: #9cd2ff;
+    --color-nas-blue-400: #5db1fd;
+    --color-nas-blue-500: #378ffa;
+    --color-nas-blue-600: #2171ef;
+    --color-nas-blue-700: #195adc;
+    --color-nas-blue-800: #1b4ab2;
+    --color-nas-blue-900: #1c418c;
+    --color-nas-blue-950: #162955;
+}

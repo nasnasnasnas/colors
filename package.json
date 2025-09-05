@@ -1,0 +1,14 @@
+{
+  "name": "@nas-szpunar/colors",
+  "private":  false,
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasnasnasnas/colors.git"
+  }
+}
